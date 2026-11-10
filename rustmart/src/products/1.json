@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Manzana",
+  "description": "Una manzana al dia mantiene al doctor lejos",
+  "image": "/products/manzana.png",
+  "price": 65.00
+}

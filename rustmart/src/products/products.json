@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Manzana",
+    "description": "Una manzana al dia mantiene al doctor lejos",
+    "image": "/products/manzana.png",
+    "price": 65.00
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "description": "Racimo de platano",
+    "image": "/products/banana.png",
+    "price": 49.00
+  },
+  {
+    "id": 3,
+    "name": "Naranja",
+    "description": "Naranja rica en vitamina C",
+    "image": "/products/manzana.png",
+    "price": 55.00
+  },
+  {
+    "id": 4,
+    "name": "Uvas",
+    "description": "Racimo de uvas dulces",
+    "image": "/products/banana.png",
+    "price": 72.00
+  },
+  {
+    "id": 5,
+    "name": "Pera",
+    "description": "Pera jugosa y fresca",
+    "image": "/products/manzana.png",
+    "price": 60.00
+  }
+]
